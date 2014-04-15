@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E6D14DC1-B633-4EA1-898D-32BD0EE32B60</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Crop Images to Area</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC8C9262-6EC1-4D8F-8F78-A427824A57FF</key>
+		<string>https://github.com/jelko/Crop-Images-to-Area.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Crop Images to Area.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC8C9262-6EC1-4D8F-8F78-A427824A57FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jelko/Crop-Images-to-Area.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC8C9262-6EC1-4D8F-8F78-A427824A57FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC8C9262-6EC1-4D8F-8F78-A427824A57FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Crop Images to Area</string>
+		</dict>
+	</array>
+</dict>
+</plist>
